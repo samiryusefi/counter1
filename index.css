@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    background: #white;
+    background: #d62828;
     max-width: 80%;
     margin-top: 400px;
     margin-left: auto;
@@ -46,17 +46,17 @@ button {
 }
 
 #save-btn {
-    background: #001427;
+    background: #green;
 }
 
 #save-el {
     font-weight: bold;
 }
 #increment-btn:hover {
-    background: #0077b6;
+    background: darkred;
 }
 #save-btn:hover {
-    background: #007200
+    background: darkgreen;
 }
 
 

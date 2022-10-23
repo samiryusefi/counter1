@@ -3,11 +3,11 @@ body {
     background-size: cover;
     font-family: 'Orbitron', sans-serif;
     text-align: center;
-    height: 2vh;
+    height: 1vh;
 }
 
 .container {
-    background: #FFEE32;
+    background: #708d81;
     max-width: 80%;
     margin-top: 400px;
     margin-left: auto;
@@ -42,11 +42,11 @@ button {
 }
 
 #increment-btn {
-    background: #1e96fc;
+    background: #bf0603;
 }
 
 #save-btn {
-    background: #1C7947;
+    background: #001427;
 }
 
 #save-el {
